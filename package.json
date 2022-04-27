@@ -1,0 +1,21 @@
+{
+  "name": "covidbot",
+  "version": "1.0.0",
+  "description": "Discord BOT that can retrieve real-time information about COVID-19",
+  "main": "./index.js",
+  "scripts": {
+    "start": "node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "CodeDead",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^7.7.0",
+    "eslint-config-airbnb-base": "^14.2.0",
+    "eslint-plugin-import": "^2.22.0"
+  },
+  "dependencies": {
+    "discord.js": "^12.3.1"
+  }
+}
